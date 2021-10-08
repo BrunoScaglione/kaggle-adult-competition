@@ -1,7 +1,7 @@
 {
   "id": "brunoscaglione/pmr3508-2021-59",
   "title": "PMR3508-2021-59",
-  "code_file": "./adult_knn.ipynb",
+  "code_file": "./adultKnn.ipynb",
   "language": "python",
   "kernel_type": "notebook",
   "is_private": "false",
